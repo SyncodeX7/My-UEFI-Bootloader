@@ -1,0 +1,8 @@
+Created At: 2026-11-23T19:15:52+05:30
+Completed At: 2026-11-23T19:15:52+05:30
+Command exited with code 2.
+
+Command output:
+make: Entering directory '/home/aditya/.gemini/antigravity-cli/brain/96f00254-1826-44fc-b105-6ed0d0c36c6f'
+make: *** No targets specified and no makefile found.  Stop.
+make: Leaving directory '/home/aditya/.gemini/antigravity-cli/brain/96f00254-1826-44fc-b105-6ed0d0c36c6f'
