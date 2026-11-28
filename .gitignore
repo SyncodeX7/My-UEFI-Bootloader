@@ -1,0 +1,8 @@
+build/
+*.o
+*.efi
+*.img
+*.ppm
+*.png
+*.sock
+*.pid
